@@ -10,17 +10,21 @@ Many tools let you connect a provider, such as an AI model or a data service, by
 
 ## What is inside
 
-- `01-what-byok-means.md` the idea, and when bringing your own key is worth it.
-- `02-what-an-api-key-is.md` what a key actually is, in everyday terms.
-- `03-getting-your-first-key.md` the general steps to get a key from any provider.
-- `04-storing-keys-safely.md` how to keep a key without leaking it, no coding required.
-- `05-controlling-cost.md` setting limits so a key cannot run up a surprise bill.
-- `06-common-mistakes.md` the errors that cost people money or keys, and how to avoid them.
+- [01-what-byok-means.md](01-what-byok-means.md) the idea, and when bringing your own key is worth it.
+- [02-what-an-api-key-is.md](02-what-an-api-key-is.md) what a key actually is, in everyday terms.
+- [03-getting-your-first-key.md](03-getting-your-first-key.md) the general steps to get a key from any provider.
+- [04-storing-keys-safely.md](04-storing-keys-safely.md) how to keep a key without leaking it, no coding required.
+- [05-controlling-cost.md](05-controlling-cost.md) setting limits so a key cannot run up a surprise bill.
+- [06-common-mistakes.md](06-common-mistakes.md) the errors that cost people money or keys, and how to avoid them.
 - `FAQ.md` quick answers to the questions that come up most.
 
 ## How to use it
 
 Read it in order the first time. After that, `04` and `05` are the two to revisit, because safe storage and cost control are the parts that protect you.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
